@@ -1,0 +1,13 @@
+img{
+    float: auto;
+    max-width:20%;
+    height: auto;
+    border: 5px;
+}
+
+h1{
+    text-align: center;
+}
+body{
+    background-image: url(pap.webp)
+}

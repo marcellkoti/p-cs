@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Ojuju:wght@200..800&display=swap');
+
+
+h1{
+    text-align: center;
+}
+
+body{
+    background-image:url(early_christian_tombs_pecs_unesco_2.jpeg) ;
+    text-align:center;
+    font-size:19px;
+    font-weight: 400;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: 1900px;
+}
+
+
+table{
+    border:50px;
+}
